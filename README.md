@@ -1,6 +1,6 @@
 # Clinical Trial Data Analysis
 
-### Project Overview
+## Project Overview
 
 The increasing prevalence of diabetes in the 21st century ia a problem, an epidemic even.
 
@@ -30,3 +30,13 @@ We're going to assess this data sets quality and tidiness, and take note of all 
 We'll then clean all these issues using python and pandas.
 
 The end goal, being able to create a trusrworthy analysis, and hopefully, eventually recommend this new drug, this new oral insulin, to continue to large scale-production and improve the lives of diabetics all over the world. 
+
+
+## Findings
+### Adverse Reactions
+Some of the common adverse reactions are cough, headache, nausea, and a big one is hypoglycemia which is low blood sugar caused by insulin overdose.
+
+Between these two drugs, Auralin and Novodra, the pure counts of each adverse reaction are pretty similar, with the exception of throat irritation for Auralin, an oral insulin, which should be expected because this pill is taken orally and passes by the throat before it gets to the stomach. The injection site discomfort, which is peculiar to the injectable insulin should also be expected, as it's a common known reaction for injectables because of needles. This is actually one of the big reasons why we want oral insulin.
+
+![Adverse Reactions of Auralin](https://user-images.githubusercontent.com/104560999/183288702-90b56c9f-7014-45e5-9e9e-ce89c7ce38d8.png)
+![Adverse Reactions of Novodra](https://user-images.githubusercontent.com/104560999/183288709-d001f170-4e92-492f-8e15-0709d959c045.png)
