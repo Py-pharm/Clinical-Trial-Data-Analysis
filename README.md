@@ -1,4 +1,6 @@
-# Clinical-Trial-Data-Analysis
+# Clinical Trial Data Analysis
+
+### Project Overview
 
 The increasing prevalence of diabetes in the 21st century ia a problem, an epidemic even.
 
