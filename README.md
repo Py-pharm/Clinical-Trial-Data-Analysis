@@ -40,3 +40,14 @@ Between these two drugs, Auralin and Novodra, the pure counts of each adverse re
 
 ![Adverse Reactions of Auralin](https://user-images.githubusercontent.com/104560999/183288702-90b56c9f-7014-45e5-9e9e-ce89c7ce38d8.png)
 ![Adverse Reactions of Novodra](https://user-images.githubusercontent.com/104560999/183288709-d001f170-4e92-492f-8e15-0709d959c045.png)
+
+## Pre-trial/Post-trial Mean HbA1c change ( in %)
+The HbA1c change is 0.40% for Novodra and 0.39% for Auralin.
+That smaller difference in the mean is much clearer in the bar plot.
+
+![Mean HbA1c change](https://user-images.githubusercontent.com/104560999/183288798-892b0343-b59e-4123-88ca-4a0e3ce7c883.png)
+
+## Conclusion
+Auralin is similarly effective to the injectable insulin, Novodra, according to the analysis of this clinical trial.
+
+This means that Auralin has passed the Phase II clinical trial, hence there is a good chance of this new drug making it past phase III trial, the regulatory review process, as well as making it to the market. If this does, this oral insulin would be an enormous breakthrough in treating type 1 and type II diabetes melitus patients, as freedom from daily injections would liberate patients, help reduce missed doses, and therefore reduce irritating and sometimes serious complications from diabetes
