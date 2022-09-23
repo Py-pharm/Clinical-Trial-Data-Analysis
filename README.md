@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The increasing prevalence of diabetes in the 21st century ia a problem, an epidemic even.
+The increasing prevalence of diabetes in the 21st century is a problem, an epidemic even.
 
 Since the discovery of insulin as an intervention, the default method of administration is by a needle, multiple times a day.
 
